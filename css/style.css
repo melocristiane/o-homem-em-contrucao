@@ -44,6 +44,14 @@ body {
     flex-direction: column;
 }
 
+.principal__sectionintro--sect:last-child {
+    width: 50%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
 .principal__section--h1 {
     font-size: 40px;
     color: #FFFFFF;
